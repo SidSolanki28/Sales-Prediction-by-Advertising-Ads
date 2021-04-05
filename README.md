@@ -1,4 +1,6 @@
-# [Project 3: Predict Sales by Advertising Ads](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
+# Project 3: Predict Sales by Advertising Ads
+
+---
 
 <img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/display-ad-example.png" width="700" height="250">
 
