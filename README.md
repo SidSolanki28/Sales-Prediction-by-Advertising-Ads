@@ -17,3 +17,5 @@
 ## Links
 
 #### [Github Link](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
+
+##### [Direct Notebook Link](https://nbviewer.jupyter.org/github/SidSolanki28/Predict-Sales-by-Advertising-Ads/blob/master/Advertising_Ads.ipynb)
