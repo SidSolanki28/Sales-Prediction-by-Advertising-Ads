@@ -14,4 +14,4 @@
 
 ## Links
 
-#### ![Github Link](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
+#### [Github Link](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
